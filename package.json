@@ -10,11 +10,9 @@
   },
   "author": "Alex Baker",
   "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^1.18.3"
-  },
   "dependencies": {
     "body-parser": "^1.19.0",
+    "nodemon": "^1.18.3",
     "cors": "^2.8.5",
     "ejs": "^2.7.4",
     "express": "^4.16.3",
